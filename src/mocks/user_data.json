@@ -1,0 +1,794 @@
+{
+    "candidates": [
+        {
+            "id": 1,
+            "firstName": "Frances",
+            "lastName": "R. Kostka",
+            "email": "frances@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "United Kingdom",
+            "nationalId": "0000000000",
+            "gender": "male",
+            "profileUrl": "/images/guy_1.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 2,
+            "firstName": "Aaliyah",
+            "lastName": "Sanderson",
+            "email": "aaliyah@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "Saudi Arabia",
+            "nationalId": "0000000000",
+            "gender": "female",
+            "profileUrl": "/images/lady_1.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 3,
+            "firstName": "Michael",
+            "lastName": "D. Mckee",
+            "email": "micky@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "United Kingdom",
+            "nationalId": "0000000000",
+            "gender": "male",
+            "profileUrl": "/images/guy_4.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 4,
+            "firstName": "Christel",
+            "lastName": "R. Sclafani",
+            "email": "christel@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "Romania",
+            "nationalId": "0000000000",
+            "gender": "female",
+            "profileUrl": "/images/lady_5.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 5,
+            "firstName": "Jerry",
+            "lastName": "S. Pollock",
+            "email": "jerry@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "United States",
+            "nationalId": "0000000000",
+            "gender": "male",
+            "profileUrl": "/images/guy_2.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 6,
+            "firstName": "Esther",
+            "lastName": "Jordans",
+            "email": "esty@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "United Kingdom",
+            "nationalId": "0000000000",
+            "gender": "female",
+            "profileUrl": "/images/lady_2.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 7,
+            "firstName": "Toby",
+            "lastName": "Judah",
+            "email": "toby@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "Nigeria",
+            "nationalId": "0000000000",
+            "gender": "male",
+            "profileUrl": "/images/guy_5.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 8,
+            "firstName": "Ariadne",
+            "lastName": "R. Shallom",
+            "email": "frances@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "South Africa",
+            "nationalId": "0000000000",
+            "gender": "female",
+            "profileUrl": "/images/lady_3.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 9,
+            "firstName": "Lifestyle",
+            "lastName": "Horizontal",
+            "email": "lifestyle@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "United Kingdom",
+            "nationalId": "0000000000",
+            "gender": "male",
+            "profileUrl": "/images/guy_3.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        },
+        {
+            "id": 10,
+            "firstName": "Sharon",
+            "lastName": "Hudson",
+            "email": "frances@gmail.com",
+            "phoneNumber": "000 000 0000",
+            "countryCode": "+00",
+            "nationality": "Spain",
+            "nationalId": "0000000000",
+            "gender": "female",
+            "profileUrl": "/images/lady_4.jpg",
+            "dob": "12 june 2000",
+            "appliedDate": "12 june 2023",
+            "score": 7,
+            "resumeUrl": "/images/resume/resume_pic.png",
+            "education": [
+                {
+                    "degree": "Bsc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jun 2021",
+                    "endDate": "Jul 2022"
+                },
+                {
+                    "degree": "Msc Computer Science",
+                    "university": "University of London",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "workExperience": [
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                },
+                {
+                    "role": "Cyber Security Intern",
+                    "company": "Coop Training",
+                    "country": "United Kingdom",
+                    "startDate": "Jul 2022",
+                    "endDate": "Jun 2023"
+                }
+            ],
+            "otherPrograms": [
+                {
+                    "role": "Misk Traineeship",
+                    "company": "Video Task",
+                    "isActive": true
+                },
+                {
+                    "role": "Summer Internship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "XYZ Traineeship",
+                    "company": "Video Task",
+                    "isActive": false
+                },
+                {
+                    "role": "London Internship",
+                    "company": "Video Task",
+                    "isActive": true
+                }
+            ],
+            "tags": [
+                "#top_candidate",
+                "#marketing_june"
+            ],
+            "scope": [
+                "New York",
+                "Marketing",
+                "London"
+            ]
+        }
+    ]
+}
